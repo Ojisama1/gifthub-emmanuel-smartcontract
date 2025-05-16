@@ -1,1 +1,1 @@
-# gifthub-emmanuel-smartcontract
+# smartcontract
